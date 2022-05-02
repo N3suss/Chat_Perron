@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_chat_especifico.xml" value="0.33" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_chat_grupal.xml" value="0.25" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_chats.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/Chat/app/src/main/res/layout/item_rv_chats.xml" value="0.2" />
+        <entry key="..\:/Users/cesar/AndroidStudioProjects/Chat/app/src/main/res/layout/item_rv_mensaje.xml" value="0.2" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/drawable/bacground_origen.xml" value="0.178" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/drawable/bg_color.xml" value="0.178" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/drawable/blanco.xml" value="0.1775" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/drawable/color_bg.xml" value="0.202" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/drawable/dg_color.xml" value="0.187" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/activity_chat_especifico.xml" value="0.22" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/activity_chat_grupal.xml" value="0.33" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/activity_chats.xml" value="0.22" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/activity_main.xml" value="0.1621376811594203" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/bg_color.xml" value="0.16394927536231885" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/item_rv_chats.xml" value="0.1621376811594203" />
+        <entry key="..\:/appppppppppsssssssss/Chat/app/src/main/res/layout/item_rv_mensaje.xml" value="0.1621376811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
