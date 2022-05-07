@@ -24,7 +24,8 @@
             android:layout_marginTop="0dp"
             android:layout_marginEnd="0dp"
             android:layout_marginBottom="0dp"
-            android:text="Recargar"
+            android:text="  Recargar"
+            android:drawableLeft="@drawable/recjijija"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -74,11 +75,12 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
     </android.support.constraint.ConstraintLayout>
 
     <android.support.constraint.ConstraintLayout
         android:id="@+id/constraintLayout"
-        android:background="@drawable/dg_color"
+        android:background="@drawable/redd"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginStart="8dp"
@@ -91,8 +93,8 @@
         <EditText
 
             android:id="@+id/etTexto"
-            android:layout_width="286dp"
-            android:layout_height="34dp"
+            android:layout_width="267dp"
+            android:layout_height="36dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
@@ -109,12 +111,13 @@
         <Button
             android:id="@+id/btnEnviar"
 
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
+            android:layout_width="93dp"
+            android:layout_height="49dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
-            android:text="Enviar"
+            android:drawableRight="@drawable/env1"
+            android:text="Enviar "
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
